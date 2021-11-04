@@ -1,6 +1,5 @@
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518737967778242"
-     crossorigin="anonymous"></script>
+<!--  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518737967778242"
+     crossorigin="anonymous"></script> -->
 
 ![](https://ahjustsea.github.io/BuyTheDip/bitcoindips_white.png)
 
