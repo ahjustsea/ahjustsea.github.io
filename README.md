@@ -24,7 +24,7 @@ Going to bed? Stepping out for dinner? Kids crying their eyes out? **Mole** [@bi
 
 ![](https://ahjustsea.github.io/BuyTheDip/ToCallMole.png)
 
-
+ 
 ### Function 1: To get dip levels, 
   
 - tweet ***"@bitcoindips !getdips \$SYMBOL"***. 
