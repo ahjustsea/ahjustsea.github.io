@@ -1,9 +1,10 @@
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1518737967778242"
-     crossorigin="anonymous"></script> 
+     crossorigin="anonymous"></script>
 
 ![](https://ahjustsea.github.io/BuyTheDip/bitcoindips_white.png)
 
-BuyTheDip is a project made to help with crypto investing. It's purpose is to determine whether current prices are significantly/statistically lower (dips) or higher (peaks) than it has been in the last two weeks. Buying these dips and selling at these peaks will yield greater return on investment. Whether you sell or not is entirely up to you, but a portfolio that buys at dips will definitely outperform a scheduled-time-purchases (e.g., DCA). 
+BuyTheDip is a project made to help with crypto investing. Its purpose is to determine whether current prices are significantly/statistically lower (dips) or higher (peaks) than it has been in the last two weeks. Buying these dips and selling at these peaks will yield greater return on investment. Whether you sell or not is entirely up to you, but a portfolio that buys at dips will definitely outperform a scheduled-time-purchases (e.g., DCA). 
 
 [@BitcoinDips](https://twitter.com/bitcoindips) on Twitter:
 
